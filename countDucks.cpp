@@ -29,7 +29,7 @@ int main(int argc, char *argv[])
 		nonduckCount++;
 	animalCount++;
   }	  
-  
+  //close file ! 
   cout << "Report for " << argv[1] <<":" << endl;
   cout << " Animal count:    " << animalCount << endl;
   cout << " Duck count:      " << duckCount << endl;
