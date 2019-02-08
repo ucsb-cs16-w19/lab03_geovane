@@ -1,7 +1,7 @@
 // myProg02.cpp
 // Geovane Marquez
-// Preconditions: Program reads from a text file and counts occurences
-// Postcondtions: The number of ducks counted and the numbers of non ducks counted will be printed to screen.
+// Preconditions: Program reads from a text file and counts occurences.
+// Postcondtions: The number of ducks counted and the numbers of non ducks counted, and the total of animals counted  will be printed to screen.
 
 #include <iostream> // for printf()
 #include <string>   // for string 
